@@ -1,0 +1,46 @@
+body {
+  background-color: #1c1c1c;
+}
+
+.header-container {
+  border: none;
+  box-shadow: 8px 8px 10px grey;
+  background-color: #889696;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  margin: 30px;
+  font-weight: 700;
+}
+
+.email {
+  flex-grow: 1;
+  color: #fff;
+}
+
+tr {
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  color: #fff;
+}
+
+.table-container {
+  display: flex;
+  padding: 30px 680px;
+  background-color: #daddd83d;
+}
+
+tbody {
+  padding: 0 30px;
+}
+
+.money-wallet {
+  padding-left: 80rem;
+  padding-top: 30px;
+  width: 450px;
+  height: 450px;
+  position: absolute;
+  opacity: 0.2;
+  z-index: -1000;
+}

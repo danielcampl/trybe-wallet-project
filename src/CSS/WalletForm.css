@@ -1,0 +1,17 @@
+.walletform-container {
+  background-color: #daddd83d;
+  padding: 30px 680px;
+}
+
+.wallet-input {
+  padding: 10px;
+  font-weight: 700;
+}
+
+label {
+  font-weight: 800;
+}
+
+p {
+  padding-top: 10px;
+}
